@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engjëll Abazaj</h1>
-<h3 align="center">Aspiring Remote Software Engineer | AI & Web Dev Enthusiast | Open to Global Opportunities 🌍</h3>
+<h3 align="center">Aspiring Software Engineer | AI & Web Dev Enthusiast | Open to Global Opportunities 🌍</h3>
 
 ---
 
