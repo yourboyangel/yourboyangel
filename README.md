@@ -14,7 +14,7 @@
 - 🎓 Incoming Master’s Student @ PoliTo — *Computer Engineering: AI & Data Analytics*
 - 🧠 Focused on **Fullstack Web Dev**, **Machine Learning**, & **Backend Engineering**
 - 🌍 Passionate about **global tech collaboration** and **remote work**
-- 🚀 Goal: Break into the **top 1% of software engineers** and earn a **$100K+ remote salary**
+- 🚀 Goal: Break into the **top 1% of software engineers** and **become one of the best**
 - 📬 Reach out: **engjell.abazaj123@gmail.com**
 
 </td>
