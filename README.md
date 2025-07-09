@@ -27,7 +27,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/engjell-abazaj-43b0aa20b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://instagram.com/engjell.abazaj" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/c/engjellabazaj1878" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.leetcode.com/yourboyangel" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
 </p>
 
@@ -47,5 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourboyangel&show_icons=true&theme=radical" alt="yourboyangel GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourboyangel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
