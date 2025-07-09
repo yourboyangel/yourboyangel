@@ -26,7 +26,7 @@
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/engjell-abazaj-43b0aa20b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://instagram.com/engjell.abazaj" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/engjellabazaj" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.leetcode.com/yourboyangel" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
 </p>
 
