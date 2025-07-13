@@ -15,6 +15,7 @@
 - 🧠 Focused on **Fullstack Web Dev**, **Machine Learning** & **Backend Engineering**
 - 🌍 Passionate about **global tech collaboration** and **remote work**
 - 🚀 Goal: Break into the **top 1% of software engineers** and **become one of the best**
+- 💻 My Website: **https://engjellabazaj.vercel.app/**
 - 📬 Reach out: **engjell.abazaj123@gmail.com**
 
 </td>
