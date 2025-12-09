@@ -35,7 +35,7 @@
 > Languages, Frameworks & Tools I’ve worked with recently:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,postgres,php,java,python,c,cpp,docker,git,figma,graphql,postman,haskell" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,html,css,tailwind,bootstrap,mongodb,mysql,postgres,php,java,python,c,cpp,docker,git,figma,graphql,postman,haskell" />
 </p>
 
 ---
