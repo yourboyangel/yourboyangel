@@ -30,11 +30,13 @@
 
 ---
 
-### 🧠 Tech Stack   
+### 🧠 Tech Stack
 > Languages, Frameworks & Tools I’ve worked with recently:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </p>
+  <a href="https://github.com/thuongtruong109/icoziv" target="_blank">
+    <img src="https://i.icoziv.workers.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql&theme=dark" alt="Tech Stack Row 1" />
+    <br />
+    <img src="https://i.icoziv.workers.dev/icons?i=postgres,php,java,py,c,cpp,docker,git,figma,graphql,postman,haskell&theme=dark" alt="Tech Stack Row 2" />
+  </a>
+</p>
